@@ -1,1 +1,1 @@
-# NLA-project
+# Image Watermarking Using DWT and SVD
