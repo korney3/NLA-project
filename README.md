@@ -5,7 +5,7 @@ Final project in NLA course at Skoltech, 2018.
 ### Implemented functions: 
 
 
-1)Haar Wavelet forward and inverse transformation of images.
+1) Haar Wavelet forward and inverse transformation of images.
 
 2) Digital image watermark embedding and extracting. 
 
